@@ -1,0 +1,40 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#link {
+    display: flex;
+    text-align: right;
+}
+
+#logo {
+    margin-bottom: 10px;
+}
+
+#top1 {
+    font-size: 17px;
+    padding-right: 30px;
+    color: black;
+    border-left-style: solid;
+    padding-left: 30px;
+    margin-top: 30px;
+}
+
+#table {
+    padding-left: 80px;
+    background-image: url(../../img/gs_07_dev.jpg);
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 300px;
+    padding-right: 80px;
+}
+
+#tab {
+    margin-top: 50px;
+    background-color: aliceblue;
+    border-collapse: collapse;
+    border: 1px solid #333;
+}
